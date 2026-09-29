@@ -1,0 +1,6 @@
+username	email	title	posted_at
+elena	elena@example.com	Book review	2026-09-02 20:10:00
+farid	farid@example.com	Pandas vs SQL	2026-09-07 09:30:00
+grace	grace@example.com	Garden update	2026-09-12 17:25:00
+bob	bob@example.com	Indexes explained	2026-09-18 11:55:00
+jonah	jonah@example.com	Fall playlist	2026-09-25 22:00:00
